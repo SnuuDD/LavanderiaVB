@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Lavanderia", "Lavanderia\Lavanderia.vbproj", "{CC1FF2BD-89E8-4D7B-903B-93CF9F451D5B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC1FF2BD-89E8-4D7B-903B-93CF9F451D5B}.Debug|x86.ActiveCfg = Debug|x86
+		{CC1FF2BD-89E8-4D7B-903B-93CF9F451D5B}.Debug|x86.Build.0 = Debug|x86
+		{CC1FF2BD-89E8-4D7B-903B-93CF9F451D5B}.Release|x86.ActiveCfg = Release|x86
+		{CC1FF2BD-89E8-4D7B-903B-93CF9F451D5B}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
