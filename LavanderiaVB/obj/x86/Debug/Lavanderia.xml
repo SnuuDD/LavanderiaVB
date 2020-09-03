@@ -1,0 +1,124 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Lavanderia
+</name>
+</assembly>
+<members>
+<member name="T:Lavanderia.LavanderiaDataSet.ClienteDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Lavanderia.LavanderiaDataSet.ConceptoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Lavanderia.LavanderiaDataSet.EmpleadosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Lavanderia.LavanderiaDataSet.ServicioDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Lavanderia.LavanderiaDataSet.ClienteRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Lavanderia.LavanderiaDataSet.ConceptoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Lavanderia.LavanderiaDataSet.EmpleadosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Lavanderia.LavanderiaDataSet.ServicioRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Lavanderia.LavanderiaDataSet.ClienteRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Lavanderia.LavanderiaDataSet.ConceptoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Lavanderia.LavanderiaDataSet.EmpleadosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Lavanderia.LavanderiaDataSet.ServicioRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Lavanderia.LavanderiaDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Lavanderia.LavanderiaDataSetTableAdapters.ClienteTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Lavanderia.LavanderiaDataSetTableAdapters.ConceptoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Lavanderia.LavanderiaDataSetTableAdapters.EmpleadosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Lavanderia.LavanderiaDataSetTableAdapters.ServicioTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:Lavanderia.LavanderiaDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Lavanderia.LavanderiaDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:Lavanderia.LavanderiaDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Lavanderia.LavanderiaDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:Lavanderia.LavanderiaDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Lavanderia.LavanderiaDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:Lavanderia.LavanderiaDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:Lavanderia.LavanderiaDataSetTableAdapters.TableAdapterManager.UpdateAll(Lavanderia.LavanderiaDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:Lavanderia.LavanderiaDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:Lavanderia.LavanderiaDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:Lavanderia.LavanderiaDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="P:Lavanderia.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Lavanderia.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:Lavanderia.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
